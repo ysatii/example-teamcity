@@ -13,4 +13,7 @@ public class Welcomer{
 	public String saySome(){
 		return "something in the way";
 	}
+        public String hunterReply() {
+                return "Only a true hunter dares to challenge the unknown!";
+        }
 }
